@@ -18,3 +18,9 @@ Lastly, users can download the images they like by clicking the download button,
 Conclusion:
 -----------
 This project is a monochrome gallery app built using ReactJS and Pexels API. It allows users to search for images, save them, download them, and implements pagination for improved performance. The saved images are stored in the local storage of the user's device, allowing them to access their favorite images even when they are offline.
+
+UI:
+---
+![Screenshot_13](https://user-images.githubusercontent.com/81923195/224544140-ecd0f7a0-5969-4eed-b528-9940c4d1d2eb.png)
+![Screenshot_1](https://user-images.githubusercontent.com/81923195/224544175-6d8cb76a-264c-4a75-9a12-78bb604551b9.png)
+![Screenshot_3](https://user-images.githubusercontent.com/81923195/224544189-60486c55-b3c1-492b-b68a-f0c10f39d1b1.png)
