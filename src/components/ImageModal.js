@@ -21,7 +21,7 @@ const ImageModal = ({ isOpen, closeModal, selectedPhoto }) => {
     const handleDownload = async () => {
         const response = await fetch(selectedPhoto.src.original, {
             headers: {
-                Authorization: "563492ad6f91700001000001a3efbc496be74221bb0eb5b84b1adc12",
+                Authorization: "YOUR__API__KEY",
             },
         });
         const blob = await response.blob();
