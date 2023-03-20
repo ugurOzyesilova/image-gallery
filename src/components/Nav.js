@@ -1,5 +1,4 @@
 import React, { useState, useContext, useEffect } from 'react';
-import Logo from "../images/pinterest__logo.png"
 import { GiLightningTear } from "react-icons/gi"
 import { CiSaveDown2, CiSearch } from "react-icons/ci"
 import { Context } from '../context/Context';
